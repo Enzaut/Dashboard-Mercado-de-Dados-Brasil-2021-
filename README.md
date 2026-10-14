@@ -2,7 +2,7 @@
 
 Dashboard interativo no Tableau Public sobre o mercado de trabalho em dados no Brasil, construído a partir da pesquisa **State of Data Brazil 2021** (Data Hackers).
 
-**Dashboard publicado:** [COLE AQUI O LINK DO TABLEAU PUBLIC]
+**Dashboard publicado:** https://public.tableau.com/app/profile/enzo.gomide.martins/viz/MercadodeDadosBrasil2021/MercadodeDadosnoBrasilemNmeros?publish=yes
 
 ## Sobre o projeto
 
@@ -39,7 +39,3 @@ Análise de ~2.645 respostas de profissionais de dados de todo o Brasil, buscand
     ├── State of Data 2021 - Dataset - Pgina1.csv   # base original (Kaggle)
     └── State of Data 2021 - Pronto para Tableau.xlsx # base tratada, usada no Tableau
 ```
-
-## Processo e desafios
-
-O arquivo [`Diario do Projeto.txt`](Diario%20do%20Projeto.txt) documenta o processo completo, incluindo problemas reais encontrados no caminho (encoding de CSV, separação de colunas, dados de múltipla escolha, publicação no Tableau Public) e como cada um foi resolvido.
